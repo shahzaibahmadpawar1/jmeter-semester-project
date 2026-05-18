@@ -160,8 +160,8 @@ During this project, the most challenging part was understanding **how aliases w
 
 ## 👤 Author
 
-- **Student Name:** ___________________
-- **Registration No:** ___________________
+- **Student Name:** shahzaib ahmad
+- **Registration No:** fa22-bse-081
 - **Course:** CSE482 — Software Testing
 - **Instructor:** Ms. Yella Mehroze
 - **Semester:** Spring 2026
